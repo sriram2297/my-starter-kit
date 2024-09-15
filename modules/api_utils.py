@@ -2,10 +2,23 @@
 
 import openai
 
+
+
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from the config file
+load_dotenv('config.env')
+
+
+
+
+
+
 # Initialize the SambaNova API client
 client = openai.OpenAI(
-    api_key='233ecfa5-413b-47fe-9374-113ae0cb7a80',
-    base_url="https://api.sambanova.ai/v1",
+    api_key=os.getenv("api_key"),
+    base_url=os.getenv('base_url'),
 )
 
 # Function to summarize text
