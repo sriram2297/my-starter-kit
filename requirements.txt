@@ -7,4 +7,4 @@ PyPDF2
 python-docx
 streamlit
 docx
-dotenv
+python-dotenv
