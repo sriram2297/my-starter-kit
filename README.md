@@ -9,18 +9,6 @@
 - **Multi-format Support**: Supports file formats like PDF, DOCX, and Markdown.
 - **Interactive User Interface**: Built using Streamlit for a smooth and responsive user experience.
 
-## Project Structure
-
-  my-starter-kit/
-  │
-  ├── main.py                # Main entry point of the project
-  ├── README.md              # Documentation of the project
-  └── modules/               # Contains utility modules
-      ├── __init__.py        # (Optional) Makes the directory a package
-      ├── doc_utils.py       # Handles document processing (PDF, DOCX, MD)
-      ├── chart_utils.py     # (Optional) For generating charts/visuals
-      └── api_utils.py       # (Optional) Handles external API calls
-
 ## Installation and Setup
 
 ### Prerequisites
