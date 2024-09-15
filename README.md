@@ -1,5 +1,7 @@
 # IntelliDoc: Your AI-Powered Document Assistant 
 
+![3c](https://github.com/user-attachments/assets/94dcb48c-2b6d-45dc-aba3-e8bdada64b66)
+
 ## Overview
 **IntelliDoc** is a comprehensive AI-powered application designed to process multi-format documents and provide interactive Q&A capabilities. It supports file uploads in formats such as PDF, DOCX, and Markdown, with automated text extraction, summarization, and knowledge retrieval. Users can ask questions about the document content and receive precise answers through a built-in Q&A chatbot.
 
