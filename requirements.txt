@@ -1,0 +1,9 @@
+openai
+streamlit
+pandas
+seaborn
+matplotlib
+PyPDF2
+python-docx
+streamlit
+docx
