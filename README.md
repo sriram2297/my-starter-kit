@@ -1,8 +1,11 @@
 # IntelliDoc: Your AI-Powered Document Assistant 
 
-![Screenshot 2024-09-15 214351](https://github.com/user-attachments/assets/7da76b5d-e607-4387-83d3-1fa540c827e1)
-![Screenshot 2024-09-15 214208](https://github.com/user-attachments/assets/0fd4c0dc-b7e2-492c-b22c-04912b736152)
+
 ![Screenshot 2024-09-15 214033](https://github.com/user-attachments/assets/822d93bc-bb15-453e-bda3-026383e9cc1d)
+
+![Screenshot 2024-09-15 214208](https://github.com/user-attachments/assets/0fd4c0dc-b7e2-492c-b22c-04912b736152)
+
+![Screenshot 2024-09-15 214351](https://github.com/user-attachments/assets/7da76b5d-e607-4387-83d3-1fa540c827e1)
 
 
 ## Overview
