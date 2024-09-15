@@ -1,4 +1,4 @@
 # Ignore environment variables and sensitive files
 .env
 config/
-# config.env
+config.env
