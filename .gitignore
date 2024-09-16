@@ -1,4 +1,8 @@
 # Ignore environment variables and sensitive files
 .env
 config/
+<<<<<<< HEAD
 # config.env
+=======
+config.env
+>>>>>>> 135f2c938b62e82e120969cc359c3a11f5f7bcfe
